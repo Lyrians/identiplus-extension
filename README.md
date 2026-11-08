@@ -1,3 +1,10 @@
 [![IDENTI+ — Tu comunidad de siempre. A tu manera.](assets/identi-plus-banner.png)](https://identi.io)
-# identiplus-extension
+# Identi+ (Extensión para navegadores)
 Identi+ es una extensión para mejorar la experiencia en Identi con diseños más cómodos, herramientas para el editor y correcciones de interfaz que cada usuario puede activar o desactivar.
+
+# Cambios
+Editor de posts: El editor de posts tenía varios errores visuales y de experiencia.
+## Cambio visual
+### Crear nueva publicación
+Se cambio el diseño de la vista de crear publicación, ya que los elementos ocupaban demasiado protagonismo, y se eliminaron botones invasivos como "Crear publicación". Innecesario sabiendo en donde ya estamos parados.
+![Editor original de Identi](assets/identi_editor.png)
