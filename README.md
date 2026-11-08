@@ -20,3 +20,8 @@ Se cambio el diseño de la vista de crear publicación, ya que los elementos ocu
 
 ![Barra del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_barra_editor.png)
 ![Comparación del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_editor.gif)
+
+### Publicaciones
+- Se corrigió por completo el diseño de los posts para una mayor comodidad de lectura, dando importancia al contenido del post, y comentarios.
+
+![Comparación de publicaciones: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_post.gif)
