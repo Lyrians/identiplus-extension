@@ -1,6 +1,6 @@
 [![IDENTI+ — Tu comunidad de siempre. A tu manera.](assets/identi-plus-banner.png)](https://identi.io)
 # Identi+ (Extensión para navegadores)
-Identi+ es una extensión para mejorar la experiencia en Identi con diseños más cómodos, herramientas para el editor y correcciones de interfaz que cada usuario puede activar o desactivar.
+Identi+ es una extensión de navegador para mejorar la experiencia en Identi con diseños más cómodos, herramientas para el editor y correcciones de interfaz que cada usuario puede activar o desactivar.
 
 # Cambios
 - Editor de posts: El editor de posts tenía varios errores visuales y de experiencia.
@@ -25,3 +25,17 @@ Se cambio el diseño de la vista de crear publicación, ya que los elementos ocu
 - Se corrigió por completo el diseño de los posts para una mayor comodidad de lectura, dando importancia al contenido del post, y comentarios.
 
 ![Comparación de publicaciones: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_post.gif)
+
+### Explorar
+- La página de explorar fue modificada, eliminando elementos innecesarios que ocupaban la mitad de la pantalla hasta llegar a las publicaciones. La compactamos, y la hicimos menos redundante. Existía un filtro para buscar por categoría, cuando ya existía una categoría al costado. Es repetitivo, en Identi+ se removio y se hizo mas compacto.
+- Resolvimos el error de paginación al cargar nuevos posts en una pagina siguiente o anterior. El menú se comía información.
+- 
+![Explorar: Identi original a la izquierda e IdentiPlus a la derecha](assets/comparacion_explorar.png)
+![Paginación: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_paginacion.gif)
+
+# Descargo de responsabildad
+No trabajamos para Identi ni con Identi. Damos soluciones a errores en los que tal vez, el administrador no esta dispuesto a por el momento solucionarlos. Trabajar en una plataforma tiene prioridades, y algunas de esas prioridades, no son visibles. Todas las modificaciones que hacemos en Identi+ no afectan en absolutamente nada con los servidores, datos sensibles, ni código sensibe de la plataforma, trabajamos únicamente con las posibildades que tenemos accesibles en Identi.
+
+### **No vamos a subir la extensión hasta dentro de 48 horas**
+Tenemos claro, que el administrador de Identi esta haciendo constantes cambios, y preferimos que este mismo vea nuestros cambios con la extensión, y determine cuales son los mejores para su caso, y los implementes. También, queremos ver que tanto apoyo tiene este proyecto con los usuarios de la platforma. Si no hay puntos, no hay comentarios, no hay seguimiento, este proyecto muere.
+
