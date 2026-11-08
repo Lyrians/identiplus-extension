@@ -17,9 +17,12 @@ Se cambio el diseño de la vista de crear publicación, ya que los elementos ocu
 - Se compactó la barra del editor de post para que sea mas prolija
 - Se corrigió el error de la misma barra, ya que al hacer scroll se ocultaba con el menú.
 - Se eliminó el botón de limpiar formulario de creación de post, ya que fue agregado oficialmente.
+- Se agrego la posibilidad de tener una galería de imágenes en el editor de post. Esto para no tener que buscar las mismas imágenes repetidas en todos los posts.
+
 
 ![Barra del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_barra_editor.png)
 ![Comparación del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_editor.gif)
+![Biblioteca de imágenes de IdentiPlus](assets/biblioteca_imagenes.png)
 
 ### Publicaciones
 - Se corrigió por completo el diseño de los posts para una mayor comodidad de lectura, dando importancia al contenido del post, y comentarios.
