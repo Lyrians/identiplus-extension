@@ -2,6 +2,8 @@
 # Identi+ (Extensión para navegadores)
 Identi+ es una extensión de navegador para mejorar la experiencia en Identi con diseños más cómodos, herramientas para el editor y correcciones de interfaz que cada usuario puede activar o desactivar.
 
+![Popup de IdentiPlus con categorías y controles de módulos](assets/popup_identiplus.png)
+
 # Cambios
 - Editor de posts: El editor de posts tenía varios errores visuales y de experiencia.
 - Explorar: La pagina "explorar" tenia elementos invasivos, repetitivos, innecesarios. Se compactaron, y corrigieron errores.
@@ -40,5 +42,7 @@ Se cambio el diseño de la vista de crear publicación, ya que los elementos ocu
 No trabajamos para Identi ni con Identi. Damos soluciones a errores en los que tal vez, el administrador no esta dispuesto a por el momento solucionarlos. Trabajar en una plataforma tiene prioridades, y algunas de esas prioridades, no son visibles. Todas las modificaciones que hacemos en Identi+ no afectan en absolutamente nada con los servidores, datos sensibles, ni código sensibe de la plataforma, trabajamos únicamente con las posibildades que tenemos accesibles en Identi.
 
 ### **No vamos a subir la extensión hasta dentro de 48 horas**
-Tenemos claro, que el administrador de Identi esta haciendo constantes cambios, y preferimos que este mismo vea nuestros cambios con la extensión, y determine cuales son los mejores para su caso, y los implementes. También, queremos ver que tanto apoyo tiene este proyecto con los usuarios de la platforma. Si no hay puntos, no hay comentarios, no hay seguimiento, este proyecto muere.
+Tenemos claro, que el administrador de Identi esta haciendo constantes cambios, y preferimos que este mismo vea nuestros cambios con la extensión, y determine cuales son los mejores para su caso, y los implementes. También, queremos ver que tanto apoyo tiene este proyecto con los usuarios de la platforma. Si no hay puntos, no hay comentarios, no hay seguimiento, este proyecto muere. **En 48 horas, veremos que cambios hay en Identi, y si algunos de los que fueron nombrados aca fueron agregados, se eliminaran del proyecto.**.
+
+Nosotros, hicimos un dropdown con imagen de perfil en el menu, cuando nos dimos cuenta, al rato fue agregado oficialmente. Por eso, preferimos esperar. 
 
