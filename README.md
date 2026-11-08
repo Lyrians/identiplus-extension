@@ -9,5 +9,14 @@ Identi+ es una extensión para mejorar la experiencia en Identi con diseños má
 
 # Cambio visual
 ### Crear nueva publicación
-Se cambio el diseño de la vista de crear publicación, ya que los elementos ocupaban demasiado protagonismo, y se eliminaron botones invasivos como "Crear publicación". Innecesario sabiendo en donde ya estamos parados.
-![Editor original de Identi](assets/identi_editor.png)
+Se cambio el diseño de la vista de crear publicación, ya que los elementos ocupaban demasiado protagonismo, y se eliminaron botones invasivos como "Crear publicación". Innecesario sabiendo en donde ya estamos parados. (Izquierda Identi+, derecha original).
+
+![Comparación: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_editor.png)
+
+### Barra de editor de posts
+- Se compactó la barra del editor de post para que sea mas prolija
+- Se corrigió el error de la misma barra, ya que al hacer scroll se ocultaba con el menú.
+- Se eliminó el botón de limpiar formulario de creación de post, ya que fue agregado oficialmente.
+
+![Barra del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_barra_editor.png)
+![Comparación del editor: IdentiPlus a la izquierda e Identi original a la derecha](assets/comparacion_editor.gif)
